@@ -1,10 +1,10 @@
-c:\users\aaam\documents\visual studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.CompanyForm.resources
-c:\users\aaam\documents\visual studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.RegisterForm.resources
-c:\users\aaam\documents\visual studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.Properties.Resources.resources
-c:\users\aaam\documents\visual studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.csproj.GenerateResource.Cache
-c:\users\aaam\documents\visual studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\bin\Debug\AndrejCurcicAF.exe.config
-C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.csprojResolveAssemblyReference.cache
+C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\bin\Debug\AndrejCurcicAF.exe.config
 C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\bin\Debug\AndrejCurcicAF.exe
 C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\bin\Debug\AndrejCurcicAF.pdb
+C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.csprojResolveAssemblyReference.cache
+C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.CompanyForm.resources
+C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.RegisterForm.resources
+C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.Properties.Resources.resources
+C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.csproj.GenerateResource.Cache
 C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.exe
 C:\Users\aaam\Documents\Visual Studio 2015\Projects\AndrejCurcicAF\AndrejCurcicAF\obj\Debug\AndrejCurcicAF.pdb

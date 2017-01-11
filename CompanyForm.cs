@@ -44,7 +44,7 @@ namespace AndrejCurcicAF
         // Method to fill our CompanyList which later works as a filter for our DataGridView
         private void initCompanyList()
         {
-            const string sql = "Select companyName from dbo.Company";
+            const string sql = "Select companyName from dbo.Company order by companyName asc";
             try
             {
                 DataTable dt = selectIntoDataTable(sql);
@@ -108,6 +108,7 @@ namespace AndrejCurcicAF
                 SqlDataAdapter adapt = new SqlDataAdapter(cmd);
                 DataSet ds = new DataSet();
                 adapt.Fill(ds);
+                ((DataTable)companyList.DataSource).Rows.Add(textBoxCompanyName.Text);
                 con.Close();
                 MessageBox.Show("Grattis! Du har skapat ett företag");
 
